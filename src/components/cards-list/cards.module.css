@@ -1,0 +1,64 @@
+
+
+.cards{
+    
+    width: 250px;
+    height: 305px;
+    border-radius: 4px;
+    box-shadow: 1px 1px 3px 0px #ad7c7c40;
+    background-color: #ffffff;
+
+}
+.cardsBoxText{
+    width: inherit;
+    height: inherit;
+}
+
+.imgBox{
+    height: 134px;
+    width: 250px;
+    border-radius: 4px;
+}
+.img{
+    height: 100%;
+    width: 100%;
+    border-radius: inherit;
+    
+}
+.cardTitle{
+    font-family: Ubuntu;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+    padding: 10px 0px 3px 8px;
+    color: #000000;
+
+
+}
+.subtitle{
+    font-family: Ubuntu;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 15px;
+    margin: 5px 0px 5px 5px;
+    color: #000000;  
+}
+.hurt{
+    width: 17px;
+    height: 15px;
+}
+.cardBtn{
+    border: none;
+    height: 21px;
+    width: 95px;
+    border-radius: 2px;
+    background-color: #212121;
+    font-family: Ubuntu;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    color: #ffffff;
+    text-align: center;
+    margin: 10px 9px 0px 0px;
+
+}
